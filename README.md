@@ -1,5 +1,5 @@
 ## Hi There👋, I'm Lokesh Pande  
-### Final Year IT Student | Java Developer | Web Enthusiast  
+### Final Year IT Student | Software Developer | Web Enthusiast  
 
 ![Profile views](https://komarev.com/ghpvc/?username=Lokesh-github07)
 
