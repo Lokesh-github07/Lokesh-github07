@@ -72,7 +72,7 @@
 
 ## 📫 Connect With Me  
 
-- 💼 LinkedIn: www.linkedin.com/in/lokesh-pande-26aa76327  
+- 💼 LinkedIn: www.linkedin.com/in/lokeshpande07  
 - 📧 Email: pandelokesh19@gmail.com  
 - 🌐 Portfolio: *Coming soon*  
 
