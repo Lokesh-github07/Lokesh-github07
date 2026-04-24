@@ -66,7 +66,7 @@
 
 ## 📊 GitHub Stats  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=algolia&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Lokesh-github07&theme=algolia&show_icons=true)
 
 ---
 
