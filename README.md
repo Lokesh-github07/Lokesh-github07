@@ -1,11 +1,13 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi+There+%F0%9F%91%8B%2C+I'm+Lokesh+Pande;Final+Year+IT+Student;Software+Developer;Web+Enthusiast" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:9C27B0&height=200&section=header&text=Lokesh%20Pande&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Final%20Year%20IT%20Student%20%7C%20Software%20Developer%20%7C%20Web%20Enthusiast&descAlignY=58&descSize=18" alt="header banner" width="100%"/>
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Building+clean+backend+systems+with+Java;Turning+ideas+into+working+web+apps;Sharpening+DSA%2C+one+problem+at+a+time;Exploring+AI+%2B+System+Design;Always+learning%2C+always+building" alt="Typing SVG" />
 
-<img src="https://komarev.com/ghpvc/?username=Lokesh-github07&label=Profile%20Views&color=2E9EF7&style=flat" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/Lokesh-github07?label=Followers&style=flat&color=2E9EF7" alt="Followers" />
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Lokesh-github07&label=Profile%20Views&color=2E9EF7&style=for-the-badge" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/Lokesh-github07?label=Followers&style=for-the-badge&color=9C27B0" alt="Followers" />
 
 </div>
 
@@ -26,73 +28,78 @@
 <div align="center">
 
 **Languages**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<br/>
+<img src="https://skillicons.dev/icons?i=java,py,js,mysql" />
 
 **Frontend**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<br/>
+<img src="https://skillicons.dev/icons?i=html,css,js" />
 
 **Backend**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JDBC](https://img.shields.io/badge/JDBC-4479A1?style=for-the-badge&logo=oracle&logoColor=white)
+<br/>
+<img src="https://skillicons.dev/icons?i=java" />
+<img src="https://img.shields.io/badge/JDBC-4479A1?style=for-the-badge&logo=oracle&logoColor=white" height="48"/>
 
 **Database**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+<br/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
 
 **Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,eclipse" />
 
 </div>
 
 ---
 
-### 🚀 Projects
+### 🚀 Featured Projects
 
 <details open>
-<summary><b>🎮 Tic Tac Toe Game</b></summary>
+<summary><b>🎮 Tic Tac Toe Game</b>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square" /></summary>
 <br/>
 
 Multiplayer & Computer Mode with a modern UI and match history tracking.
 
-**Tech:** HTML · CSS · JavaScript
+<img src="https://skillicons.dev/icons?i=html,css,js" height="32"/>
 
-🔗 [Live Demo](https://storied-lolly-8ea707.netlify.app)
+**✨ Highlights**
+- Two game modes: Player vs Player and Player vs Computer
+- Match history tracking across sessions
+- Clean, responsive, modern UI
+
+🔗 [Live Demo](https://storied-lolly-8ea707.netlify.app) &nbsp;|&nbsp; ⭐ Star this repo if you like it!
 
 </details>
 
 <details>
-<summary><b>🎓 Student Login & Dashboard System</b></summary>
+<summary><b>🎓 Student Login & Dashboard System</b>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Status-In%20Progress-orange?style=flat-square" /></summary>
 <br/>
 
 Secure authentication & role-based access control for a student management dashboard.
 
-**Tech:** Java · MySQL · HTML · CSS · JavaScript
+<img src="https://skillicons.dev/icons?i=java,mysql,html,css,js" height="32"/>
+
+**✨ Highlights**
+- Role-based access (student / admin) with secure login
+- Java + JDBC backend connected to MySQL
+- Dashboard UI for managing student records
 
 🔗 Project link coming soon
 
 </details>
 
 <details>
-<summary><b>💰 Expense Tracker with Monthly Analytics</b></summary>
+<summary><b>💰 Expense Tracker with Monthly Analytics</b>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Status-In%20Progress-orange?style=flat-square" /></summary>
 <br/>
 
 Track daily expenses with category-wise management, monthly analytics, and interactive charts for better financial insights.
 
-**Tech:** Java · JavaFX · JFreeChart · SQLite
+<img src="https://skillicons.dev/icons?i=java,sqlite" height="32"/>
+
+**✨ Highlights**
+- Category-wise expense management
+- Monthly analytics with visual reports
+- Interactive charts powered by JFreeChart
 
 🔗 Project link coming soon
 
@@ -131,6 +138,38 @@ Track daily expenses with category-wise management, monthly analytics, and inter
 
 ---
 
+### 🏆 Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Lokesh-github07&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+
+</div>
+
+---
+
+### 📅 Contribution Graph
+
+<div align="center">
+
+<img src="https://ghchart.rshah.org/2E9EF7/Lokesh-github07" alt="GitHub Contribution Chart" width="100%"/>
+
+</div>
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Lokesh-github07/Lokesh-github07/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%"/>
+
+</div>
+
+> ℹ️ The snake animation above needs a one-time GitHub Action setup in your profile repo — see the note at the bottom of this file.
+
+---
+
 ### 📫 Connect With Me
 
 <div align="center">
@@ -139,6 +178,20 @@ Track daily expenses with category-wise management, monthly analytics, and inter
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pandelokesh19@gmail.com)
 
 </div>
+
+---
+
+<details>
+<summary>⚙️ <b>One-time setup: activate the contribution snake</b></summary>
+<br/>
+
+The snake animation isn't a plain image link — it's generated by a GitHub Action running in your own `Lokesh-github07/Lokesh-github07` profile repo. To turn it on:
+
+1. In that repo, create `.github/workflows/snake.yml` (file provided separately).
+2. Commit and push it — the Action runs automatically and publishes the SVG to an `output` branch.
+3. The image tag already in this README points to that branch, so it'll start working after the first run (~1–2 minutes).
+
+</details>
 
 ---
 
