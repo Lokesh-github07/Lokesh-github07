@@ -152,7 +152,7 @@ Track daily expenses with category-wise management, monthly analytics, and inter
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/2E9EF7/Lokesh-github07" alt="GitHub Contribution Chart" width="100%"/>
+<img src="https://ghchart.rshah.org/00FF00/Lokesh-github07" alt="GitHub Contribution Chart" width="100%"/>
 
 </div>
 
