@@ -272,12 +272,12 @@ A full-stack e-commerce platform focused on clean REST APIs and scalable backend
 ☑ Build real-world full-stack applications
 ☑ Improve Java & backend development
 ☑ Strengthen DSA fundamentals
-☐ Master Spring Boot
-☐ Learn scalable system design
-☐ Build AI-powered applications
-☐ Improve testing & automation
-☐ Contribute to open source
-☐ Build something people actually use
+☑ Master Spring Boot
+☑ Learn scalable system design
+☑ Build AI-powered applications
+☑ Improve testing & automation
+☑ Contribute to open source
+☑ Build something people actually use
 ```
 
 ---
