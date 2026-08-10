@@ -1,17 +1,8 @@
-<div align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/Lokesh-github07/Lokesh-github07@main/assets/neofetch-panel.svg" width="42%"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/Lokesh-github07/Lokesh-github07@main/assets/name-banner.svg" width="54%"/>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:9C27B0&height=200&section=header&text=Lokesh%20Pande&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Final%20Year%20IT%20Student%20%7C%20Software%20Developer%20%7C%20Web%20Enthusiast&descAlignY=58&descSize=18" alt="header banner" width="100%"/> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Building+clean+backend+systems+with+Java;Turning+ideas+into+working+web+apps;Sharpening+DSA%2C+one+problem+at+a+time;Exploring+AI+%2B+System+Design;Always+learning%2C+always+building" alt="Typing SVG" />
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&lines=Building+clean+backend+systems+with+Java;Turning+ideas+into+working+web+apps;Sharpening+DSA%2C+one+problem+at+a+time;Exploring+AI+%2B+System+Design;Always+learning%2C+always+building" alt="Typing SVG" />
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Lokesh-github07&label=Profile%20Views&color=7AA2F7&style=for-the-badge" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/Lokesh-github07?label=Followers&style=for-the-badge&color=9C27B0" alt="Followers" />
-
-</div>
+<img src="https://komarev.com/ghpvc/?username=Lokesh-github07&label=Profile%20Views&color=2E9EF7&style=for-the-badge" alt="Profile Views" /> <img src="https://img.shields.io/github/followers/Lokesh-github07?label=Followers&style=for-the-badge&color=9C27B0" alt="Followers" /> </div>
 
 ---
 
