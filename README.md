@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/neofetch-panel.svg" width="42%"/>&nbsp;&nbsp;<img src="assets/name-banner.svg" width="54%"/>
+<img src="https://cdn.jsdelivr.net/gh/Lokesh-github07/Lokesh-github07@main/assets/neofetch-panel.svg" width="42%"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/Lokesh-github07/Lokesh-github07@main/assets/name-banner.svg" width="54%"/>
 
 <br/><br/>
 
