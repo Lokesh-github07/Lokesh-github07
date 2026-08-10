@@ -286,17 +286,24 @@ A full-stack e-commerce platform focused on clean REST APIs and scalable backend
 
 <div align="center">
 
-🔐 Authentication Systems    •   
-🌐 REST APIs    •   
-🛒 E-Commerce    •   
+🔐 Authentication Systems &nbsp;&nbsp; • &nbsp;&nbsp;
+🌐 REST APIs &nbsp;&nbsp; • &nbsp;&nbsp;
+🛒 E-Commerce &nbsp;&nbsp; • &nbsp;&nbsp;
 📊 Analytics Dashboards
 
 <br/>
 
-🤖 AI Applications    •   
-⚙️ Automation Tools    •   
-💻 Backend Systems    •   
+🤖 AI Applications &nbsp;&nbsp; • &nbsp;&nbsp;
+⚙️ Automation Tools &nbsp;&nbsp; • &nbsp;&nbsp;
+💻 Backend Systems &nbsp;&nbsp; • &nbsp;&nbsp;
 📱 Web Applications
+
+<br/>
+
+🧪 Testing &nbsp;&nbsp; • &nbsp;&nbsp;
+🔍 Quality Engineering &nbsp;&nbsp; • &nbsp;&nbsp;
+🔄 Automation &nbsp;&nbsp; • &nbsp;&nbsp;
+🚀 Developer Tools
 
 </div>
 
