@@ -276,11 +276,11 @@ A full-stack e-commerce platform focused on clean REST APIs and scalable backend
 
 ---
 
-# 📈 Contribution Graph
+### 📊 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-insight-terminal-asci.vercel.app/svg?user=Lokesh-github07&theme=mac" alt="GitHub contribution terminal" width="100%"/>
+<img src="https://github-readme-insight-terminal-asci.vercel.app/svg?user=Lokesh-github07&theme=terminal" alt="GitHub contribution terminal" width="100%"/>
 
 </div>
 
