@@ -256,31 +256,11 @@ A full-stack e-commerce platform focused on clean REST APIs and scalable backend
 
 ---
 
-# 🏆 GitHub Achievements
+# 📊 GitHub Contribution Graph
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Lokesh-github07&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%"/>
-
-</div>
-
----
-
-# 🐍 My Contribution Journey
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Lokesh-github07/Lokesh-github07/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%"/>
-
-</div>
-
----
-
-### 📊 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-insight-terminal-asci.vercel.app/svg?user=Lokesh-github07&theme=terminal" alt="GitHub contribution terminal" width="100%"/>
+<img src="https://ghchart.rshah.org/00C853/Lokesh-github07" alt="GitHub Contribution Graph" width="100%"/>
 
 </div>
 
