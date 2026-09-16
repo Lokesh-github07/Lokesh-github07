@@ -238,21 +238,7 @@ A full-stack e-commerce platform focused on clean REST APIs and scalable backend
 
 # 📊 GitHub Activity
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Lokesh-github07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lokesh-github07&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Lokesh-github07&theme=tokyonight&hide_border=true"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lokesh-github07&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-
-</div>
+![Lokesh GitHub stats](https://github-readme-stats.vercel.app/api?username=Lokesh-github07&theme=transparent_icons=true)
 
 ---
 
