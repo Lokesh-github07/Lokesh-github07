@@ -106,7 +106,7 @@ Building Better 🚀
 ### 🔧 Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,eclipse,docker,postman,jira"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,eclipse,docker,postman"/>
 </p>
 
 ---
