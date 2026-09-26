@@ -1,328 +1,116 @@
 <div align="center">
 
-# 👋 Hey, I'm Lokesh Pande
+# Hey, I'm Lokesh Pande 👋
 
-### 💻 Software Developer • Java Backend Enthusiast • Web Developer
+### Software Developer • Java Backend Enthusiast • Web Developer
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0F5132,100:00C853&height=180&section=header&text=Building%20Ideas%20Into%20Software&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Code%20%7C%20Build%20%7C%20Learn%20%7C%20Repeat&descAlignY=62&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:4F46E5,100:7C3AED&height=160&section=header&text=Building%20Ideas%20Into%20Software&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Code%20%7C%20Build%20%7C%20Learn%20%7C%20Repeat&descAlignY=62&descSize=16" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=00C853&center=true&vCenter=true&width=700&lines=Java+%7C+Spring+Boot+%7C+REST+APIs;Building+scalable+backend+systems;Creating+modern+web+applications;Learning+DSA+%26+System+Design;Exploring+AI+%2B+Automation;Turning+ideas+into+working+projects" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=900&color=7C3AED&center=true&vCenter=true&width=650&lines=Java+%7C+Spring+Boot+%7C+REST+APIs;Building+scalable+backend+systems;Learning+DSA+%26+System+Design;Exploring+AI+%2B+Automation" alt="Typing SVG"/>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Lokesh-github07&label=PROFILE+VIEWS&color=00C853&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/Lokesh-github07?label=FOLLOWERS&style=for-the-badge&color=111111"/>
-<img src="https://img.shields.io/github/stars/Lokesh-github07?label=STARS&style=for-the-badge&color=00C853"/>
+<img src="https://komarev.com/ghpvc/?username=Lokesh-github07&label=PROFILE+VIEWS&color=7C3AED&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/Lokesh-github07?label=FOLLOWERS&style=for-the-badge&color=4F46E5"/>
+<img src="https://img.shields.io/github/stars/Lokesh-github07?label=STARS&style=for-the-badge&color=7C3AED"/>
 
 </div>
 
----
+<br/>
 
-## 🧑‍💻 Who Am I?
+## About Me
 
-```java
-public class LokeshPande {
+- 🎓 Final-year **Information Technology** student who enjoys turning ideas into working applications
+- 💻 Focused on **Java, backend development, REST APIs, databases,** and web technologies
+- 🧠 Currently sharpening **DSA, system design, testing/automation,** and **AI + automation**
+- 🚀 I learn best by building, breaking, debugging, and improving
 
-    String role = "Software Developer";
-    String education = "Final Year IT Student";
+<br/>
 
-    String[] interests = {
-        "Backend Development",
-        "Web Applications",
-        "REST APIs",
-        "System Design",
-        "DSA",
-        "AI & Automation"
-    };
+## Tech Stack
 
-    String currentGoal =
-        "Build better software and become a stronger problem solver.";
+**Languages**
+<p><img src="https://skillicons.dev/icons?i=java,python,javascript,html,css"/></p>
 
-    boolean lovesBuilding = true;
-}
-```
-
-🎓 Final-year **Information Technology student** who enjoys turning ideas into real, working applications.
-
-💻 My main focus is **Java, backend development, REST APIs, databases, and web technologies**.
-
-🚀 I learn best by **building projects**, breaking things, debugging them, and improving them.
-
-🧠 Currently sharpening my **DSA, backend architecture, system design, testing, and automation** skills.
-
-🤖 Exploring how **AI + automation** can make applications smarter and development workflows more efficient.
-
----
-
-## ⚡ My Developer Journey
-
-```text
-Learning
-   ↓
-Building
-   ↓
-Breaking Things 💥
-   ↓
-Debugging 🔧
-   ↓
-Understanding
-   ↓
-Building Better 🚀
-```
-
-> I don't just want to learn technologies.
-> **I want to understand how they work and use them to build useful things.**
-
----
-
-# 🛠️ Tech Arsenal
-
-### 👨‍💻 Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css"/>
-</p>
-
-### ⚙️ Backend & APIs
-
+**Backend & APIs**
 <p>
 <img src="https://skillicons.dev/icons?i=java,spring,nodejs"/>
-<img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/JDBC-4479A1?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST%20APIs-4F46E5?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/JDBC-7C3AED?style=for-the-badge&logo=java&logoColor=white"/>
 </p>
 
-### 🗄️ Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite"/>
-</p>
-
-### 🌐 Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,javascript"/>
-</p>
-
-### 🔧 Tools & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,eclipse,docker,postman"/>
-</p>
-
----
-
-# 🚀 Projects I'm Building
-
-<table>
-<tr>
-<td width="50%">
-
-### 🎮 Tic Tac Toe
-
-**Status:** 🟢 Live
-
-A responsive multiplayer and computer-mode Tic Tac Toe game with match history.
-
-**Built with**
-
-`HTML` `CSS` `JavaScript`
-
-**Highlights**
-
-* 👥 Player vs Player
-* 🤖 Player vs Computer
-* 📊 Match history
-* 📱 Responsive UI
-* 🎨 Modern interface
-
-🔗 **[Live Demo](https://storied-lolly-8ea707.netlify.app)**
-
-</td>
-
-<td width="50%">
-
-### 🎓 Student Management System
-
-**Status:** 🟡 In Progress
-
-A student authentication and management system with role-based access.
-
-**Built with**
-
-`Java` `JDBC` `MySQL` `HTML` `CSS` `JavaScript`
-
-**Highlights**
-
-* 🔐 Authentication
-* 👨‍🎓 Student role
-* 👨‍💼 Admin role
-* 🗄️ MySQL database
-* 📊 Dashboard
-
-🚧 **Project in development**
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 💰 Expense Tracker
-
-**Status:** 🟡 In Progress
-
-A desktop expense management application designed to track spending and provide monthly insights.
-
-**Built with**
-
-`Java` `SQLite` `JFreeChart`
-
-**Highlights**
-
-* 💵 Expense tracking
-* 🏷️ Categories
-* 📊 Monthly analytics
-* 📈 Interactive charts
-* 🗃️ Local database
-
-🚧 **Project in development**
-
-</td>
-
-<td width="50%">
-
-### 🛒 E-Commerce Platform
-
-**Status:** 🔵 Building
-
-A full-stack e-commerce platform focused on clean REST APIs and scalable backend architecture.
-
-**Built with**
-
-`React` `Node.js` `MongoDB` `REST APIs`
-
-**Planned Features**
-
-* 🔐 Authentication
-* 🛍️ Product management
-* 🛒 Shopping cart
-* 💳 Order management
-* 👤 User dashboard
-* 🔎 Product search
-
-🚧 **Currently building**
-
-</td>
-</tr>
-</table>
-
----
-
-# 🧠 Currently Learning
-
-<div align="center">
-
-| Area              | Focus                                |
-| ----------------- | ------------------------------------ |
-| 🧩 DSA            | Problem solving & algorithms         |
-| ☕ Java            | Advanced Java & backend development  |
-| 🌱 Spring Boot    | REST APIs & application architecture |
-| 🏗️ System Design | Scalable backend systems             |
-| 🧪 Testing        | Manual & automation testing          |
-| 🤖 AI             | AI assistants & automation           |
-| 🔄 Agile          | Software development workflows       |
-
-</div>
-
----
-
-# 📊 GitHub Activity
-
-![](https://github-readme-stats.shion.dev/api?username=Lokesh-github07&theme=transparent&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Lokesh-github07&theme=transparent&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Lokesh-github07&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-# 📊 GitHub Contribution Graph
-
-<div align="center">
-
-<img src="https://ghchart.rshah.org/00C853/Lokesh-github07" alt="GitHub Contribution Graph" width="100%"/>
-
-</div>
-
----
-
-# 🎯 2026 Goals
-
-```text
-☑ Build real-world full-stack applications
-☑ Improve Java & backend development
-☑ Strengthen DSA fundamentals
-☑ Master Spring Boot
-☑ Learn scalable system design
-☑ Build AI-powered applications
-☑ Improve testing & automation
-☑ Contribute to open source
-☑ Build something people actually use
-```
-
----
-
-# 💡 What I Like Building
-
-<div align="center">
-
-🔐 Authentication Systems &nbsp;&nbsp; • &nbsp;&nbsp;
-🌐 REST APIs &nbsp;&nbsp; • &nbsp;&nbsp;
-🛒 E-Commerce &nbsp;&nbsp; • &nbsp;&nbsp;
-📊 Analytics Dashboards
+**Databases**
+<p><img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite"/></p>
+
+**Tools & Platforms**
+<p><img src="https://skillicons.dev/icons?i=git,github,vscode,idea,eclipse,docker,postman"/></p>
 
 <br/>
 
-🤖 AI Applications &nbsp;&nbsp; • &nbsp;&nbsp;
-⚙️ Automation Tools &nbsp;&nbsp; • &nbsp;&nbsp;
-💻 Backend Systems &nbsp;&nbsp; • &nbsp;&nbsp;
-📱 Web Applications
+## Projects
+
+| Project | Status | Stack | Highlights |
+|---|---|---|---|
+| 🎮 **[Tic Tac Toe](https://storied-lolly-8ea707.netlify.app)** | 🟢 Live | HTML, CSS, JavaScript | PvP & vs Computer modes, match history, responsive UI |
+| 🎓 **Student Management System** | 🟡 In Progress | Java, JDBC, MySQL, HTML/CSS/JS | Auth, student/admin roles, dashboard |
+| 💰 **Expense Tracker** | 🟡 In Progress | Java, SQLite, JFreeChart | Expense tracking, categories, monthly analytics |
+| 🛒 **E-Commerce Platform** | 🔵 Building | React, Node.js, MongoDB, REST APIs | Auth, cart, orders, product search, user dashboard |
 
 <br/>
 
-🧪 Testing &nbsp;&nbsp; • &nbsp;&nbsp;
-🔍 Quality Engineering &nbsp;&nbsp; • &nbsp;&nbsp;
-🔄 Automation &nbsp;&nbsp; • &nbsp;&nbsp;
-🚀 Developer Tools
+## Currently Learning
 
-</div>
+| Area | Focus |
+|---|---|
+| 🧩 DSA | Problem solving & algorithms |
+| ☕ Java | Advanced Java & backend development |
+| 🌱 Spring Boot | REST APIs & application architecture |
+| 🏗️ System Design | Scalable backend systems |
+| 🧪 Testing | Manual & automation testing |
+| 🤖 AI | AI assistants & automation |
+| 🔄 Agile | Development workflows |
 
----
+<br/>
 
-# 🤝 Let's Connect
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/lokeshpande07">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:pandelokesh19@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Lokesh-github07">
-<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
+## GitHub Activity
 
 <div align="center">
 
-### 🚀 Build. Break. Learn. Repeat.
+<img src="https://github-readme-stats.shion.dev/api?username=Lokesh-github07&theme=transparent&hide_border=true&include_all_commits=true&count_private=false" width="49%"/>
+<img src="https://streak-stats.demolab.com/?user=Lokesh-github07&theme=transparent&hide_border=true" width="49%"/>
 
-**Thanks for visiting my profile!**
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Lokesh-github07&theme=transparent&hide_border=true&layout=compact" width="49%"/>
 
-⭐ If you find something useful here, consider giving the repository a star.
+<img src="https://ghchart.rshah.org/7C3AED/Lokesh-github07" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C853,50:0F5132,100:0D1117&height=120&section=footer"/>
+</div>
+
+<br/>
+
+## 2026 Goals
+
+- [ ] Build real-world full-stack applications
+- [ ] Master Spring Boot & scalable system design
+- [ ] Strengthen DSA fundamentals
+- [ ] Build AI-powered applications
+- [ ] Improve testing & automation
+- [ ] Contribute to open source
+- [ ] Build something people actually use
+
+<br/>
+
+## Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/lokeshpande07"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:pandelokesh19@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/Lokesh-github07"><img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+<br/><br/>
+
+⭐ If you find something useful here, consider giving a repo a star.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:4F46E5,100:0D1117&height=100&section=footer"/>
 
 </div>
