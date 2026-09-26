@@ -4,15 +4,15 @@
 
 ### Software Developer • Java Backend Enthusiast • Web Developer
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:4F46E5,100:7C3AED&height=160&section=header&text=Building%20Ideas%20Into%20Software&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Code%20%7C%20Build%20%7C%20Learn%20%7C%20Repeat&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0E7490,100:06B6D4&height=160&section=header&text=Building%20Ideas%20Into%20Software&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Code%20%7C%20Build%20%7C%20Learn%20%7C%20Repeat&descAlignY=62&descSize=16" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=900&color=7C3AED&center=true&vCenter=true&width=650&lines=Java+%7C+Spring+Boot+%7C+REST+APIs;Building+scalable+backend+systems;Learning+DSA+%26+System+Design;Exploring+AI+%2B+Automation" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=900&color=06B6D4&center=true&vCenter=true&width=650&lines=Java+%7C+Spring+Boot+%7C+REST+APIs;Building+scalable+backend+systems;Learning+DSA+%26+System+Design;Exploring+AI+%2B+Automation" alt="Typing SVG"/>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Lokesh-github07&label=PROFILE+VIEWS&color=7C3AED&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/Lokesh-github07?label=FOLLOWERS&style=for-the-badge&color=4F46E5"/>
-<img src="https://img.shields.io/github/stars/Lokesh-github07?label=STARS&style=for-the-badge&color=7C3AED"/>
+<img src="https://komarev.com/ghpvc/?username=Lokesh-github07&label=PROFILE+VIEWS&color=06B6D4&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/Lokesh-github07?label=FOLLOWERS&style=for-the-badge&color=0891B2"/>
+<img src="https://img.shields.io/github/stars/Lokesh-github07?label=STARS&style=for-the-badge&color=0E7490"/>
 
 </div>
 
@@ -35,8 +35,8 @@
 **Backend & APIs**
 <p>
 <img src="https://skillicons.dev/icons?i=java,spring,nodejs"/>
-<img src="https://img.shields.io/badge/REST%20APIs-4F46E5?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/JDBC-7C3AED?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST%20APIs-0891B2?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/JDBC-0E7490?style=for-the-badge&logo=java&logoColor=white"/>
 </p>
 
 **Databases**
@@ -81,7 +81,7 @@
 
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Lokesh-github07&theme=transparent&hide_border=true&layout=compact" width="49%"/>
 
-<img src="https://ghchart.rshah.org/7C3AED/Lokesh-github07" width="100%"/>
+<img src="https://ghchart.rshah.org/39D353/Lokesh-github07" width="100%"/>
 
 </div>
 
@@ -111,6 +111,6 @@
 
 ⭐ If you find something useful here, consider giving a repo a star.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:4F46E5,100:0D1117&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:0E7490,100:0D1117&height=100&section=footer"/>
 
 </div>
