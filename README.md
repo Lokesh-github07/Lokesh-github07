@@ -87,18 +87,6 @@
 
 <br/>
 
-## 2026 Goals
-
-- [ ] Build real-world full-stack applications
-- [ ] Master Spring Boot & scalable system design
-- [ ] Strengthen DSA fundamentals
-- [ ] Build AI-powered applications
-- [ ] Improve testing & automation
-- [ ] Contribute to open source
-- [ ] Build something people actually use
-
-<br/>
-
 ## Let's Connect
 
 <div align="center">
