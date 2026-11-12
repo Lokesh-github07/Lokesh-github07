@@ -53,7 +53,7 @@
 |---|---|---|---|
 | 🎮 **[Tic Tac Toe](https://storied-lolly-8ea707.netlify.app)** | 🟢 Live | HTML, CSS, JavaScript | PvP & vs Computer modes, match history, responsive UI |
 | 🎓 **Student Management System** | 🟡 In Progress | Java, JDBC, MySQL, HTML/CSS/JS | Auth, student/admin roles, dashboard |
-| 💰 **Expense Tracker** | 🟡 In Progress | Java, Spring Boot, PostgreSQL, JFreeChart | Expense tracking, categories, monthly analytics, Management |
+| 💰 **ExpenseX** | 🟡 In Progress | Java, Spring Boot, PostgreSQL, JFreeChart | Expense tracking, categories, monthly analytics, Management |
 | 🛒 **E-Commerce Platform** | 🔵 Building | React, Node.js, MongoDB, REST APIs | Auth, cart, orders, product search, user dashboard |
 
 <br/>
