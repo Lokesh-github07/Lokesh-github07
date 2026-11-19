@@ -81,8 +81,6 @@
 
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Lokesh-github07&theme=transparent&hide_border=true&layout=compact" width="49%"/>
 
-<img src="https://ghchart.rshah.org/39D353/Lokesh-github07" width="100%"/>
-
 </div>
 
 <br/>
